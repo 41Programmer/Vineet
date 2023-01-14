@@ -1,0 +1,164 @@
+* {
+    font-family: 'Ubuntu', sans-serif;
+    line-height: 2;
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+}
+
+h2 {
+    font-weight: normal;
+    font-size: 2.4rem;
+    color: #66BFBF;
+    text-align: center;
+    margin: 15px;
+}
+
+h3 {
+    margin: 28px auto;
+    width: 50%;
+    font-size: 1.5rem;
+    text-align: left;
+}
+
+hr {
+    width: 75%;
+    margin: 35px aut0;
+    border: 3px dotted #64acac;
+    border-bottom: none;
+}
+
+section {
+    text-align: center;
+}
+
+p {
+    font-size: 1.2rem;
+    width: 50%;
+    margin: 15px auto 50px;
+    text-align: left;
+}
+
+.container {
+    background-color: #EAF6F6;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+.cloud1 {
+    display: block;
+    position: absolute;
+    top: 30px;
+    left: 70%;
+    width: 15%;
+}
+
+
+.mainheading {
+    font-family: "Great Vibes", cursive;
+    font-size: 5.5rem;
+    width: 100%;
+    margin: auto;
+    padding: 150px 1px 0 1px;
+    color: #66BFBF;
+
+}
+
+.subheading {
+
+    width: 100%;
+    margin: 0 auto 100px auto;
+
+}
+
+.cloud2 {
+    display: blocks;
+    position: absolute;
+    top: 307px;
+    left: 120px;
+    width: 15%;
+}
+
+.land {
+    display: block;
+    width: 40%;
+    margin: auto;
+}
+
+.section {
+    margin: 35px;
+    text-align: center;
+}
+
+.logo {
+    width: 15%;
+    border-radius: 100%;
+}
+
+
+
+.content {
+    text-align: center;
+    width: 100%;
+    margin: auto;
+}
+
+.web-image {
+    text-align: center;
+    width: 15%;
+    float: left;
+    margin: 0 20px 0 200px;
+}
+
+.chilli-image {
+    text-align: center;
+    width: 15%;
+    float: right;
+    margin: 0 200px 0 20px;
+}
+
+.btn {
+    display: block;
+    width: auto;
+    margin: 30px auto;
+    font-size: 17px;
+    padding: 2px 20px;
+    background-color: grey;
+    border: none;
+}
+
+.btn-item {
+    text-decoration: none;
+    color: white;
+}
+
+.btn:hover {
+    text-decoration: underline;
+    background-color: orange;
+}
+
+.footer {
+    margin: 40px auto 0;
+    background-color: #11999E;
+    text-align: center;
+    padding: 35px 35px 0;
+}
+
+.footer-items {
+    margin: 12px;
+    text-decoration: none;
+    color: #90efef;
+}
+
+.footer-items:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+.copyright {
+    font-size: x-small;
+    text-align: center;
+}
